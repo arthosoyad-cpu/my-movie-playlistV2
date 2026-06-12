@@ -201,3 +201,5 @@ https://pixeldrain.dev/api/file/T35bC3SL?download
 https://pixeldrain.dev/api/file/9TBCypMA?download
 #EXTINF:-98,fifa
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8
+#EXTINF:-99,tsports
+http://103.59.176.72:8083/live1/tracks-v1a1/mono.m3u8?token=123
